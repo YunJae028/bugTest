@@ -1,5 +1,4 @@
 # bugTest
-
 ## Introduction
 JSP를 이용하여 간단한 심리테스트 웹사이트를 개발했습니다.<br />
 부트스트랩을 이용하여 css 구현했습니다.<br />
